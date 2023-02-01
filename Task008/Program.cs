@@ -16,11 +16,7 @@ while (min <= N)
     if (min % 2 == 0)
     {
         Console.Write($"{min} ");
-        min++;
     }
-    else
-    {
-        min++;
-    }
+    min++;
 }
 
